@@ -1,6 +1,6 @@
 <?php 
 
-$con=new mysqli("localhost","root","","rendezvous");
+$con=new mysqli("localhost","rootUser","password","dbName");
 
 
 
