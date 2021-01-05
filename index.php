@@ -1,0 +1,20 @@
+<?php 
+header("Location:Fr");
+ ?>
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta charset="utf-8" >
+	<style type="text/css">
+
+     
+	</style>
+</head>
+<body">
+
+
+	
+</body>
+</html>
