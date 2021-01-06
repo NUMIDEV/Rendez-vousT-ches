@@ -1,2 +1,2 @@
 
-To find the project switch branche to master
+To find the project switch branche from main to master
